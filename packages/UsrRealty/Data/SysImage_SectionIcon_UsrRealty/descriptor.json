@@ -10,18 +10,18 @@
     },
     "Columns": [
       {
-        "ColumnUId": "d245dcaf-23bd-4b73-8718-26fdf38b443b",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "Name",
-        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
-      },
-      {
         "ColumnUId": "be95e737-14e9-4253-b0c4-e280da05434d",
         "IsForceUpdate": false,
         "IsKey": false,
         "ColumnName": "MimeType",
         "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "d245dcaf-23bd-4b73-8718-26fdf38b443b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       },
       {
         "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",

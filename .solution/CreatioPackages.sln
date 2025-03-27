@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{934b1ece-c6e5-4edf-88d0-9e5230753f22}") = "UsrRealty", "..\packages\UsrRealty\Files\UsrRealty.csproj", "{49b6a902-baf5-478b-b29a-6d735954d338}"
+Project("{39ee579b-8295-457c-ab45-98e8ab24a58e}") = "UsrRealty", "..\packages\UsrRealty\Files\UsrRealty.csproj", "{4716cdac-e253-4f86-97fd-78dc1afdd941}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -7,9 +7,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-			{49b6a902-baf5-478b-b29a-6d735954d338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-			{49b6a902-baf5-478b-b29a-6d735954d338}.Debug|Any CPU.Build.0 = Debug|Any CPU
-			{49b6a902-baf5-478b-b29a-6d735954d338}.Release|Any CPU.ActiveCfg = Release|Any CPU
-			{49b6a902-baf5-478b-b29a-6d735954d338}.Release|Any CPU.Build.0 = Release|Any CPU
+			{4716cdac-e253-4f86-97fd-78dc1afdd941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{4716cdac-e253-4f86-97fd-78dc1afdd941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{4716cdac-e253-4f86-97fd-78dc1afdd941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{4716cdac-e253-4f86-97fd-78dc1afdd941}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
